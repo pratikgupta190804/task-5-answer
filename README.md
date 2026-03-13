@@ -23,6 +23,7 @@ Both models were then used to encode the same test input.
 # Experiment 
 
 Script to compare encoded output of both models
+Here in this script , they validate if the encoded ouputs are identical and also campare the file structure of the tokenizer (e.g. vocab.json, merges.json, etc.)
 ```bash
 @'
 from pathlib import Path
