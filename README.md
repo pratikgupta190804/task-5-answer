@@ -22,7 +22,7 @@ Both models were then used to encode the same test input.
 
 # Experiment 
 
-Script to compare both
+Script to compare encoded output of both models
 ```bash
 @'
 from pathlib import Path
